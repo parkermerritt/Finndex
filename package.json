@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CryptoIndex built with Vue-cli webpack template.",
   "author": "pmerritt",
-  "homepage": "https://github.com/parkermerritt/CryptoIndex",
+  "homepage": "https://github.com/parkermerritt/Finndex",
   "private": true,
   "wst": "/dist/",
   "scripts": {
